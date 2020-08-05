@@ -2,7 +2,7 @@ const express = require('express')
 const bodyParser = require('body-parser');
 const path = require('path')
 
-var db = require('./db');
+// var db = require('./db');
 
 const { v4: uuidv4 } = require('uuid');
 
