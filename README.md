@@ -30,8 +30,9 @@ constraints. That is using a CSRF token (Cross-site request forgery). It is a un
 calls to the api.
 
 
-Use given csrf token to access API Locally:
-http://localhost:3000/api/dbData?crsf=c2a79270-a6ee-49e5-9cf4-2c114d733892
+Use given csrf token to access Stat info from the API:
+
+https://finchatbot.eu-gb.cf.appdomain.cloud/api/dbData?crsf=c2a79270-a6ee-49e5-9cf4-2c114d733892
 
 
 ## Live Link on Server
