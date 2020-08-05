@@ -1,5 +1,4 @@
 ---
 applications:
  - name: finchatbot
-   random-route: true
    memory: 256M

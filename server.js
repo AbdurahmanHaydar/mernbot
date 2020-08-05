@@ -7,7 +7,7 @@ var db = require('./db');
 const { v4: uuidv4 } = require('uuid');
 
 const app = express()
-const port = 8080
+const port = 3000
 
 var uuid = uuidv4();
 app.use(bodyParser.json());
