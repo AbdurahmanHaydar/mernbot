@@ -18,9 +18,9 @@ npm run start
 
 ## Usage
 
-Ask a question one of these questions:
+Ask one of these questions:
 
-Hello
+Hello?
 I want to check my balance
 
 
