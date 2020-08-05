@@ -2,6 +2,27 @@
   text-align: center;
 }
 
+.sc-header {
+  background-color: #42a6a6 !important;
+}
+.sc-message--text{
+  background-color: #42a6a6 !important;
+  font-size: 14px !important;
+  font-weight: bold !important;
+}
+.sc-message--avatar{
+  display: none !important;
+}
+.sc-open-icon{
+  background-color: #42a6a6 !important;
+}
+.sc-closed-icon{
+  background-color: #42a6a6 !important;
+}
+.sc-user-input--file-icon{
+  display: none !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
