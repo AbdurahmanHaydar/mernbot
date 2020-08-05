@@ -6,11 +6,14 @@ I built the project using NodeJS, Express, MongoDb and React.
 
 Clone the repo
 
-```npm install
+```bash
+npm install
 ```
-```npm run build
+```bash
+npm run build
 ```
-```npm run start
+```bash
+npm run start
 ```
 
 ## Usage
